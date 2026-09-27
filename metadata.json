@@ -1,0 +1,6 @@
+{
+  "name": "Own a meep",
+  "description": "Adopt and raise cute meeps! Feed, dress up, play, cook meals, and visit Meep Park online to play with other meeps and earn Meep Points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
